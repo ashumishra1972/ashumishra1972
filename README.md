@@ -5,7 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashumishra1972" alt="ashumishra1972" /></a> </p>
 
-- 📫 How to reach me **ashumishra1972**
+- 🔭 I’m currently working on **CyberSecurity**
+
+- 🌱 I’m currently learning **more Technologies**
+
+- 👯 I’m looking to collaborate on **Opensource**
+
+- 💬 Ask me about Anything **related to Cybersecurity**
+
+- 📫 How to reach me **https://www.linkedin.com/in/ashutosh-mishra-148864172/**
+
+- ⚡ Fun fact **"Security is Myth"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
