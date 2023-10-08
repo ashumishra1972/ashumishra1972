@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ashumishra1972"><img src="https://github-profile-trophy.vercel.app/?username=ashumishra1972&theme=onedark" alt="ashumishra1972" /></a> </p>
 
-- 🔭 I’m currently working on **CyberSecurity**
+- 🔭 I’m currently working on **Software Development and Cybersecurity**
 
 - 🌱 I’m currently learning **more Technologies**
 
 - 👯 I’m looking to collaborate on **Opensource**
 
-- 💬 Ask me about Anything **related to Cybersecurity**
+- 💬 Ask me about Anything **related to Development/Cybersecurity**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashutosh-mishra-148864172/**
 
